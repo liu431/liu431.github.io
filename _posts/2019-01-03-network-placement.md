@@ -1,14 +1,12 @@
 ---
 title: "Placement Network of Economics PhD Programs"
-date:2020-01-03
+date: 2020-01-03
 tags: [social network, networkx, data wrangling]
+header:
+  image: "/images/perceptron/percept.jpg"
 excerpt: "social network, networkx, data wrangling"
 mathjax: "true"
 ---
-
-
-
-
 
 ```python
 import pandas as pd
