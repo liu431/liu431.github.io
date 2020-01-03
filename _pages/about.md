@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Rockfeller.jpg"
+  image: "/images/Rockfeller.JPG"
 ---
 
 I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
@@ -12,6 +12,6 @@ I’m an apsiring data scientist, experienced with Python and R programming. I s
 
 I love working on data projects together, so feel free to reach out for collaboration!
 
-![dd](https://github.com/liu431/liu431.github.io/blob/master/images/Rockfeller.JPG)
+![](https://github.com/liu431/liu431.github.io/blob/master/images/Rockfeller.JPG)
 
 
