@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "courses"
     url: https://github.com/liu431/Quantitative-Courses
+  - title: "Resume"
+    url: https://drive.google.com/file/d/1hxFf77DetwxqWmdxmRbIx4codCCpsEFB/view?usp=sharing
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
