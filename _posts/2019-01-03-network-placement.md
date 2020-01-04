@@ -1,6 +1,6 @@
 ---
-title: "Project: Network Analysis of Economics PhD Programs Placement"
-date: 2020-01-03
+title: "Class Project: Network Analysis of Economics PhD Programs Placement"
+date: 2019-12-20
 tags: [social network, networkx, data wrangling]
 excerpt: "social network, networkx, data wrangling"
 mathjax: "true"
