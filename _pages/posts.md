@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: posts
 permalink: /projects/
 title: "Projects"
 entries_layout: grid
