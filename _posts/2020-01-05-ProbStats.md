@@ -1,6 +1,6 @@
 ---
 title: "Prbability and Statistics Reviews: Important Concepts and Models (In Progress)"
-date: 2019-01-01
+date: 2020-01-05
 tags: [statistics, models, data]
 excerpt: "statistics, models, data"
 mathjax: "true"
