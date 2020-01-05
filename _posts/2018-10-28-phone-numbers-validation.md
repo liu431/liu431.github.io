@@ -32,11 +32,10 @@ Num = pd.read_excel('PhoneSurvey.xlsx',
                     names=['ID','Phone','Response','Party','Age'])
 ```
 
-#### Example: Random-genrated Numbers in Philadelphia
+#### Example: Random-genrated Numbers in Philadelphia (Code 267)
 
 
 ```python
-#Code 267 for Philly!
 Num["Code"] = 267
 Num["PN"] = Num["Code"].astype(str) + Num["Phone"].astype(str)
 Num.head()
