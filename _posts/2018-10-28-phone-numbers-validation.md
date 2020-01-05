@@ -10,10 +10,6 @@ mathjax: "true"
 
 
 
-
-
-### 
-
 Author: LI LIU (1st yr master's student at UChicago)
 
 10/26/18: basic framework
