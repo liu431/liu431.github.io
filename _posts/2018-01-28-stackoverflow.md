@@ -29,8 +29,6 @@ Date: April-June, 2019
 
 A1: Around 80% of the users just asked or answered one question 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/stackoverflow/active.jpg" alt="linearly separable data">
-
 ![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/active.png)
 
 
@@ -38,24 +36,33 @@ A1: Around 80% of the users just asked or answered one question
 
 A2:  Thee type of question has also changed. Earlier, open ended questions with very high number of responses seemed normal and acceptable. However, in the recent years, the questions are specific and seem to target error resolution. 
 
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/top.png)
+
 #### Q3.  Where do the users that answer the most come from? 
 
 A3:    From the results of the subset of data, it can be seen that most active answerers come from United States. Due to the low count of users from all other countries represented, it is hardly visible on the map. 
+
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/spatial.png)
 
 #### Q4.  What are the top used tags? 
 
 A4:  The graph below shows the top 6 languages and we see that javascript is the top tagged language. 
 
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/tags.png)
+
 #### Q5.  How are tags connected? 
 
 A5:  The figure below shows the network of tags formed by the output of the program. From this result, it can be noted that the popular language forms the central nodes of the the network.
 
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/networks.png)
+
 
 ### How do the answerers’ sentiment correlate with the popularity of the language?
 
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/chart.png)
+
 For Python, the popularity (view counts and number of questions) has increased steadily in the past 10 years. However, the sentiment fluctuates between months and has a downward trend since 2010. 
 
- 
 
 Other languages used for the analysis are:
 
@@ -67,6 +74,8 @@ Language with niche communities: SQL, R, Rust
 
 
 To visualize the correlation relationships, we made a scatter plot of correlations in the coordinate plane. The plot suggests possible clusters among languages: Python, Java, C, Javascript (general-purpose language) have relatively larger negative correlations and are closer with each other in the third quadrant. By comparison, Unix, Git, Dataproc (system tools) have relatively insignificant correlation values and locate near the origin. 
+
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/plots.png)
 
 
 Our preliminary results show the correlations between the sentiment and popularity for a programming language are likely to be negatively correlated on Stack Overflow platform. We also find a lot of variations in sentiments and popularity for all the selected 10 languages in the past decade. This suggests that the language user communities are dynamically changing. 
