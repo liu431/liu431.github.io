@@ -28,7 +28,7 @@ Num = pd.read_excel('PhoneSurvey.xlsx',
                     names=['ID','Phone','Response','Party','Age'])
 ```
 
-#### Example: Random-genrated Numbers in Philadelphia (Code 267)
+### Example: Random-genrated Numbers in Philadelphia (Code 267)
 
 
 ```python
@@ -124,7 +124,7 @@ Num.head()
 
 
 
-### Create a free account to get access key (
+### Create a free account to get access key 
 
 One account is good for to 250 API requests.
 
@@ -286,7 +286,7 @@ Num.head()
 
 
 
-#### Save the output
+### Save the output
 
 
 ```python
