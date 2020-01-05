@@ -3,7 +3,7 @@ title: "Class Project: Analyzing Developers’ Online Behavior on StackOverflow"
 date: 2019-06-10
 tags: [data visualizaton, sentiment analysis, big data, Hadoop]
 header:
-  image: "/images/stackoverflow/networks.jpg"
+  image: "/images/stackoverflow/networks.png"
 excerpt: "data visualizaton, sentiment analysis, big data, Hadoop"
 mathjax: "true"
 ---
@@ -23,9 +23,9 @@ Data sets: Stack Overflow Data (around 25 GB after extracting and cleaning)
 
 Date: April-June, 2019
 
-#### Exploratory Data Analysis
+### Exploratory Data Analysis
 
-##### Q1.  How active are the users? 
+#### Q1.  How active are the users? 
 
 A1: Around 80% of the users just asked or answered one question 
 
@@ -33,24 +33,24 @@ A1: Around 80% of the users just asked or answered one question
 
 
 
-##### Q2.  What is the most popular question for each year? 
+#### Q2.  What is the most popular question for each year? 
 
 A2:  Thee type of question has also changed. Earlier, open ended questions with very high number of responses seemed normal and acceptable. However, in the recent years, the questions are specific and seem to target error resolution. 
 
-##### Q3.  Where do the users that answer the most come from? 
+#### Q3.  Where do the users that answer the most come from? 
 
 A3:    From the results of the subset of data, it can be seen that most active answerers come from United States. Due to the low count of users from all other countries represented, it is hardly visible on the map. 
 
-##### Q4.  What are the top used tags? 
+#### Q4.  What are the top used tags? 
 
 A4:  The graph below shows the top 6 languages and we see that javascript is the top tagged language. 
 
-##### Q5.  How are tags connected? 
+#### Q5.  How are tags connected? 
 
 A5:  The figure below shows the network of tags formed by the output of the program. From this result, it can be noted that the popular language forms the central nodes of the the network.
 
 
-#### How do the answerers’ sentiment correlate with the popularity of the language?
+### How do the answerers’ sentiment correlate with the popularity of the language?
 
 For Python, the popularity (view counts and number of questions) has increased steadily in the past 10 years. However, the sentiment fluctuates between months and has a downward trend since 2010. 
 
