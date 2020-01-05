@@ -8,45 +8,27 @@ excerpt: "data visualizaton, sentiment analysis, big data, Hadoop"
 mathjax: "true"
 ---
 
-# H1 Heading
+[Presentation Slides](https://github.com/liu431/Big-Data-Project/blob/master/refs_docs/Final%20Presentation.pdf)
 
-## H2 Heading
+[Final Write-up](https://github.com/liu431/Big-Data-Project/blob/master/refs_docs/CAPP3_final_writup_HackyStacks.pdf)?
 
-### H3 Heading
 
-Here's some basic text.
 
-And here's some *italics*
+### Description
+Class: Big Data (Computer Science with Applications III) @ UChicago
+Group members: Adam Shelton, Dhruval Bhatt, Li Liu, Sanittawan Tan
+Data sets: Stack Overflow Data (around 25 GB after extracting and cleaning)
+Date: April-June, 2019
 
-Here's some **bold** text.
+#### Exploratory Data Analysis
+Q1.  How active are the users? 
+A1: Around 80% of the users just asked or answered one question 
 
-What about a [link](https://github.com/dataoptimal)?
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/active.jpg" alt="linearly separable data">
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
 
-Here's a numbered list:
-1. First
-2. Second
-3. Third
 
-Python code block:
-```python
-    import numpy as np
 
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
 
 Here's some inline code `x+y`.
 
