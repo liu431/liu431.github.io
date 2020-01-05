@@ -2,6 +2,8 @@
 title: "Fun Project: Phone Numbers Validation Tool using NumVerify API"
 date: 2018-10-27
 tags: [api, random digit dialing, validation]
+header:
+  image: "/images/random.jpg"
 excerpt: "api, random digit dialing, validation "
 mathjax: "true"
 ---
