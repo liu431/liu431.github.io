@@ -149,7 +149,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Unix</summary>
 <br>
            
-<img src="/images/stackoverflow/Unix.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/Unix.png" class="img-responsive" alt=""> 
 </details>
 
 
@@ -172,7 +172,7 @@ Language with niche communities: SQL, R, Rust
 
 To visualize the correlation relationships, we made a scatter plot of correlations in the coordinate plane. The plot suggests possible clusters among languages: Python, Java, C, Javascript (general-purpose language) have relatively larger negative correlations and are closer with each other in the third quadrant. By comparison, Unix, Git, Dataproc (system tools) have relatively insignificant correlation values and locate near the origin. 
 
-![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/plots.png)
+<img src="/images/stackoverflow/plots.png" class="img-responsive" alt="">
 
 ### Conclusion
 Our preliminary results show the correlations between the sentiment and popularity for a programming language are likely to be negatively correlated on Stack Overflow platform. We also find a lot of variations in sentiments and popularity for all the selected 10 languages in the past decade. This suggests that the language user communities are dynamically changing. 
