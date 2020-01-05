@@ -46,6 +46,8 @@ Metrics
 
 Time 
 
+### Simulation
+
 ### Bayesian Statistics
 
 MCMC
@@ -87,12 +89,17 @@ Numerical derivatives
 
 Nnumerical integration
 
-Optimization algorithms (linear programming, simplex, Newton and quasi-Newton methods, conjugate gradient methods)
-
 Equidistributed sequences for quasi-Monte Carlo simulation
 
 Measure theory
 
+### Optimization algorithms
+
+Linear programming
+
+Simplex, Newton and quasi-Newton methods
+
+Conjugate gradient methods)
 
 ### Time Series
 
