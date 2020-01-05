@@ -38,6 +38,14 @@ Maxmimum Likelihood Estimation
 
 ### AB Test and Experiments
 
+Power
+
+Sample Size
+
+Metrics
+
+Time 
+
 ### Bayesian Statistics
 
 MCMC
@@ -45,11 +53,46 @@ MCMC
 hierarchical Bayesian models
 
 
-### Spatial Data Analysis
 
-### Survey Sampling
 
-### Casual Inference
+### Econometrics & Casual Inference
+
+Instrument Variables
+
+Difference in Differnce
+
+Regression Discontinuity
+
+Potential Outcome Framework
+
+## Non-parametric Methods
+
+Kernel density estimators
+
+Linear interpolation
+
+Cubic splines
+
+Histograms
+
+
+## Numerical Methods
+High performance computing/parallel programming (MPI and OpenMP)
+
+Matrix decompositions (SVN, QN-LQ, Choleski, eigenvector-eigenvalue)
+
+Orthogonal polynomials
+
+Numerical derivatives
+
+Nnumerical integration
+
+Optimization algorithms (linear programming, simplex, Newton and quasi-Newton methods, conjugate gradient methods)
+
+Equidistributed sequences for quasi-Monte Carlo simulation
+
+Measure theory
+
 
 ### Time Series
 
@@ -57,4 +100,6 @@ hierarchical Bayesian models
 
 ### Survival Analysis
 
+### Spatial Data Analysis
 
+### Survey Sampling
