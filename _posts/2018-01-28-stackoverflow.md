@@ -155,6 +155,7 @@ Language with niche communities: SQL, R, Rust
 
 
 #### Top programming languages
+
 <details>
 <summary>toptags calculated from decrs_toptags</summary>
 <br>
@@ -165,6 +166,7 @@ Language with niche communities: SQL, R, Rust
  'ios', 'css', 'mysql', 'sql', 'asp.net', 'ruby-on-rails']
 ```
 </details>
+
 
 
 
