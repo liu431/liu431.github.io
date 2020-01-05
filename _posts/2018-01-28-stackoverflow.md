@@ -3,7 +3,7 @@ title: "Class Project: Analyzing Developers’ Online Behavior on StackOverflow"
 date: 2019-06-10
 tags: [data visualizaton, sentiment analysis, big data, Hadoop]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/stackoverflow/networks.jpg"
 excerpt: "data visualizaton, sentiment analysis, big data, Hadoop"
 mathjax: "true"
 ---
