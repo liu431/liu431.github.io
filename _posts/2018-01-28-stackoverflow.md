@@ -22,9 +22,10 @@ Date: April-June, 2019
 
 #### Exploratory Data Analysis
 Q1.  How active are the users? 
+
 A1: Around 80% of the users just asked or answered one question 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/active.jpg" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/stackoverflow/active.jpg" alt="linearly separable data">
 
 
 
