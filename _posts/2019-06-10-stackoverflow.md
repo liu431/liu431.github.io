@@ -1,10 +1,10 @@
 ---
 title: "Class Project: Analyzing Developers’ Online Behavior on StackOverflow"
 date: 2019-06-10
-tags: [data visualizaton, sentiment analysis, big data, Hadoop]
+tags: [class project, Hadoop]
 header:
   image: "/images/stackoverflow/networks-wide.png"
-excerpt: "data visualizaton, sentiment analysis, big data, Hadoop"
+excerpt: "class project, Hadoop"
 mathjax: "true"
 ---
 
