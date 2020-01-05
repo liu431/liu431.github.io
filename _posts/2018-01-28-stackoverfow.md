@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Class Project: Analyzing Developers’ Online Behavior on StackOverflow"
+date: 2019-06-10
+tags: [data visualizaton, sentiment analysis, big data, Hadoop]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "data visualizaton, sentiment analysis, big data, Hadoop"
 mathjax: "true"
 ---
 
