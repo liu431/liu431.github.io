@@ -29,20 +29,21 @@ Date: April-June, 2019
 
 A1: Around 80% of the users just asked or answered one question 
 
-![alt]("https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/active.png")
+![](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/active.png)
+<img src="/images/stackoverflow/active.png" class="img-responsive" alt=""> </div>
 
 
 #### Q2.  What is the most popular question for each year? 
 
 A2:  Thee type of question has also changed. Earlier, open ended questions with very high number of responses seemed normal and acceptable. However, in the recent years, the questions are specific and seem to target error resolution. 
 
-![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/top.png)
+![](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/top.png)
 
 #### Q3.  Where do the users that answer the most come from? 
 
 A3:    From the results of the subset of data, it can be seen that most active answerers come from United States. Due to the low count of users from all other countries represented, it is hardly visible on the map. 
 
-![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/spatial.png)
+![](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/spatial.png)
 
 #### Q4.  What are the top used tags? 
 
