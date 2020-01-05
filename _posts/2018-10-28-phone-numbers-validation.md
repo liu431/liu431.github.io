@@ -128,8 +128,11 @@ Num.head()
 
 
 
-### Go to https://numverify.com/documentation
-### Create a free account to get access key (up to 250 API requests)
+### Create a free account to get access key (
+
+One account is good for to 250 API requests.
+
+Go to https://numverify.com/documentation!
 
 #### Define the fucntion
 
