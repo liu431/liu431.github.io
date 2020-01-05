@@ -1,8 +1,8 @@
 ---
 title: "Prbability and Statistics Reviews: Important Concepts and Models (In Progress)"
 date: 2020-01-05
-tags: [statistics, models, data]
-excerpt: "statistics, models, data"
+tags: [reviews, statistics]
+excerpt: "reviews, statistics"
 mathjax: "true"
 ---
 ### Linear Algebra
@@ -23,6 +23,8 @@ Linear Transformation
 Distributions
  
 Expectations
+
+### Statistical Inference
 
 ### Linear Regression
 
