@@ -31,6 +31,7 @@ A1: Around 80% of the users just asked or answered one question
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/stackoverflow/active.jpg" alt="linearly separable data">
 
+![alt](https://github.com/liu431/liu431.github.io/blob/master/images/stackoverflow/active.png)
 
 
 #### Q2.  What is the most popular question for each year? 
