@@ -78,7 +78,7 @@ Language with niche communities: SQL, R, Rust
 <summary>C</summary>
 <br>
 
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/C/c.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/c.png" class="img-responsive" alt=""> </div>
 </details>
 
 
@@ -86,7 +86,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Git</summary>
 <br>
 
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Git/git.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/git.png" class="img-responsive" alt=""> </div>
 </details>
 
 
@@ -94,7 +94,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Google-cloud-dataproc</summary>
 <br>
 
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Google-cloud-dataproc/dataproc.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/dataproc.png" class="img-responsive" alt=""> </div>
 </details>
 
 
@@ -102,7 +102,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Java</summary>
 <br>
 
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Java/java.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/java.png" class="img-responsive" alt=""> </div>
 
 </details>
 
@@ -111,14 +111,14 @@ Language with niche communities: SQL, R, Rust
 <summary>Javascript</summary>
 <br>
 
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Javascript/javascript.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/javascript.png" class="img-responsive" alt=""> </div>
 </details>
 
 <details>
 <summary>Python</summary>
 <br>
 
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Python/python.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/python.png" class="img-responsive" alt=""> </div>
 
 </details>
 
@@ -127,14 +127,14 @@ Language with niche communities: SQL, R, Rust
 <summary>R</summary>
 <br>
            
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/R/r.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/r.png" class="img-responsive" alt=""> </div>
 </details>
 
 <details>
 <summary>Rust</summary>
 <br>
            
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Rust/rust.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/rust.png" class="img-responsive" alt=""> </div>
 </details>
 
 
@@ -142,14 +142,14 @@ Language with niche communities: SQL, R, Rust
 <summary>SQL</summary>
 <br>
            
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/SQL/sql.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/sql.png" class="img-responsive" alt=""> </div>
 </details>
 
 <details>
 <summary>Unix</summary>
 <br>
            
-<img src="https://github.com/liu431/Big-Data-Project/blob/master/code_files/analysis/SentimentPopularity/Unix/Unix.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/Unix.png" class="img-responsive" alt=""> </div>
 </details>
 
 
@@ -160,8 +160,9 @@ Language with niche communities: SQL, R, Rust
 <br>
            
 ```
-['javascript', 'java','c#', 'php', 'android', 'python', 'jquery', 'html', 'c++', 'ios', 'css', 'mysql', 
-    'sql', 'asp.net', 'ruby-on-rails']
+['javascript', 'java','c#', 'php', 'android', 'python', 'jquery', 'html', 'c++',
+
+ 'ios', 'css', 'mysql', 'sql', 'asp.net', 'ruby-on-rails']
 ```
 </details>
 
