@@ -78,7 +78,7 @@ Language with niche communities: SQL, R, Rust
 <summary>C</summary>
 <br>
 
-<img src="/images/stackoverflow/c.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/c.png" class="img-responsive" alt="">
 </details>
 
 
@@ -86,7 +86,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Git</summary>
 <br>
 
-<img src="/images/stackoverflow/git.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/git.png" class="img-responsive" alt=""> 
 </details>
 
 
@@ -94,7 +94,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Google-cloud-dataproc</summary>
 <br>
 
-<img src="/images/stackoverflow/dataproc.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/dataproc.png" class="img-responsive" alt=""> 
 </details>
 
 
@@ -102,7 +102,7 @@ Language with niche communities: SQL, R, Rust
 <summary>Java</summary>
 <br>
 
-<img src="/images/stackoverflow/java.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/java.png" class="img-responsive" alt=""> 
 
 </details>
 
@@ -111,14 +111,14 @@ Language with niche communities: SQL, R, Rust
 <summary>Javascript</summary>
 <br>
 
-<img src="/images/stackoverflow/javascript.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/javascript.png" class="img-responsive" alt=""> 
 </details>
 
 <details>
 <summary>Python</summary>
 <br>
 
-<img src="/images/stackoverflow/python.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/Python.png" class="img-responsive" alt=""> 
 
 </details>
 
@@ -127,14 +127,14 @@ Language with niche communities: SQL, R, Rust
 <summary>R</summary>
 <br>
            
-<img src="/images/stackoverflow/r.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/R.png" class="img-responsive" alt=""> 
 </details>
 
 <details>
 <summary>Rust</summary>
 <br>
            
-<img src="/images/stackoverflow/rust.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/rust.png" class="img-responsive" alt=""> 
 </details>
 
 
@@ -142,7 +142,7 @@ Language with niche communities: SQL, R, Rust
 <summary>SQL</summary>
 <br>
            
-<img src="/images/stackoverflow/sql.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/sql.png" class="img-responsive" alt=""> 
 </details>
 
 <details>
