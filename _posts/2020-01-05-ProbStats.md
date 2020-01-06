@@ -103,6 +103,10 @@ Simplex, Newton and quasi-Newton methods
 
 Conjugate gradient methods)
 
+### Psychometrics
+
+Item response theory (IRT)
+
 ### Time Series
 
 ### Multilevel Modeling
