@@ -81,6 +81,7 @@ Histograms
 
 
 ## Numerical Methods
+
 High performance computing/parallel programming (MPI and OpenMP)
 
 Matrix decompositions (SVN, QN-LQ, Choleski, eigenvector-eigenvalue)
