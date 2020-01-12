@@ -1,5 +1,5 @@
 ---
-title: "Prbability and Statistics Reviews: Important Concepts and Models (In Progress)"
+title: "Studying Notes on Prbability and Statistics"
 date: 2019-01-01
 tags: [reviews, statistics]
 excerpt: "reviews, statistics"
@@ -20,11 +20,57 @@ Linear Transformation
 
 ### Probability
 
+Expectation
+
 Distributions
- 
+
+* Binomial
+
+* Poisson
+
+* Normal 
+
 Expectations
 
+Discrete time Markov chain
+
+Poisson process
+
+Continuous time Markov process
+
+Renewal process
+
+Brownian motion
+
+Combinatorial probability
+
+Conditional probability and independence
+
 ### Statistical Inference
+
+Posterior distributions
+
+Confidence and credible intervals
+
+Hypothesis testing
+
+Likelihood ratio tests
+
+Multinomial distributions
+
+Chi-square tests
+
+Diagnostic plots
+
+Bootstrapping
+
+Comparison of Bayesian and frequentist inference
+
+Conditioning 
+
+Law of Large Number
+
+Central Limit Theorem
 
 ### Linear Regression
 
@@ -54,10 +100,10 @@ Time
 
 MCMC
 
-hierarchical Bayesian models
+Bayes's Formula
 
 
-
+Hierarchical Bayesian models
 
 ### Econometrics & Casual Inference
 
@@ -69,6 +115,12 @@ Regression Discontinuity
 
 Potential Outcome Framework
 
+Mediation
+
+Moderation
+
+Spillover Effects	
+
 ## Non-parametric Methods
 
 Kernel density estimators
@@ -79,6 +131,11 @@ Cubic splines
 
 Histograms
 
+Confidence sets
+
+Orthogonal functions
+
+Random processes
 
 ## Numerical Methods
 
@@ -102,11 +159,21 @@ Linear programming
 
 Simplex, Newton and quasi-Newton methods
 
-Conjugate gradient methods)
+Conjugate gradient methods
+
+Duality theory
+
+Optimality conditions
+
+Intractability results
+
+Unconstrained and constrained optimization
 
 ### Psychometrics
 
 Item response theory (IRT)
+
+Factor analysis
 
 ### Time Series
 
@@ -114,6 +181,17 @@ Item response theory (IRT)
 
 ### Survival Analysis
 
+* Contingency table analysis
+
+* Kaplan-Meier survival analysis
+
+* Cox proportional-hazards survival analysis
+
 ### Spatial Data Analysis
 
 ### Survey Sampling
+
+### Longitudinal Data Analysis
+
+### Multiple Testing
+
