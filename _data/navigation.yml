@@ -4,8 +4,12 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Resume"
+    url: https://drive.google.com/file/d/1dNkynQA4_VxFA7R3tg2zM-IlST5rrFSW/view?usp=sharing
   - title: "Courses"
     url: https://github.com/liu431/Quantitative-Courses
+    
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
