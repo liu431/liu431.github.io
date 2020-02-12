@@ -24,15 +24,16 @@ _Hardware_: Apple, Dell, HP, Texas Instrument, Samsung,
 
 ### Retails
 
-Example companies: Target, CVS, Walmart, Macy's, Sears, Lowe's
+Example companies: Target, CVS, Walmart, Macy's, Sears, Lowe's, Nordstrom
 
 News: [NYT: How Companies Learn Your Secrets](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
 
 ### Consulting
 
-Analytics consulting: McKinsey & Company, BCG, Bain, Quantum Black, Palantir
+Analytics consulting: McKinsey & Company, BCG, Bain, Quantum Black, Palantir, Crowe, Kenway, 1010data, Capgemini
 
 Economics consulting: Analysis Group, Charles River
+
 
 ### Public Policy/Public Opinion/Think Tank
 
@@ -40,7 +41,7 @@ Example companies: Urban Lab, Pew Research Center (Data Center), NORC, Brookings
 
 ### Consumer packaged goods (CPG)
 
-Example companies: Kraft Heinz
+Example companies: Kraft Heinz, P&G, Unilever, Home Deport
 
 ### Market research
 
@@ -49,6 +50,12 @@ Example companies: Niesen, IRI, Ipsos, Capgemini, ZS Associates, Mintel
 ### Social Media/Matching
 
 Example companies: Facebook, Snap, Instagram, Tencent, Pinterest, TikTok, OKCupid, Tinder, Thumbtack
+
+### Entertainment 
+
+_Streaming_: Netflix, Hulu, Disney
+
+_Tourism_: Disney Resort, 
 
 ### Career Services
 
@@ -88,7 +95,7 @@ Example companies: Cogo Labs
 
 ### Education
 
-Example comapanies: Coursera, Edx, Udemy, Udacity, Education Analytics, Westat, Duolingo
+Example comapanies: Coursera, Edx, Udemy, Udacity, Education Analytics, Westat, Duolingo, Pearson
 
 ### Financial Trading
 
@@ -100,7 +107,7 @@ Example companies: EA, Skillz, Riot
 
 ### Food
 
-Example companies: McDonald's
+Example companies: McDonald's, PepsiCo, Coca-Cola 
 
 ### Sports
 
