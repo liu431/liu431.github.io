@@ -6,6 +6,16 @@ excerpt: "career, tips"
 mathjax: "true"
 ---
 
+## Learning & Practicing
+[LinkedIn learning](LinkedIn Learning)
+
+## Interview Preparation
+[The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+
+[Leetcode Mock Interview](https://leetcode.com/interview/)
+
+[Learn to Code WIth Me-Technical Interview Guide](https://learntocodewith.me/posts/technical-interview/#remote-coding-challenge)
+
 ## Informational Interviews
 
 [Guide](https://uchicago.app.box.com/s/xmhppvre3hfnkgcg8wilgie2tdzehjhd)
