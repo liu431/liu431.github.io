@@ -10,17 +10,21 @@ I’m an apsiring data scientist, experienced with Python and R programming. I s
 
 I am actively looking for data science and business analytics full-time positions to start my career after graduation in June 2020! Feel free to give me a shout if you are looking for a creative problem solver.
 
-## Highlight
+## In a nutshell
 
 • A numbers guy and also a people person
 
-• Geek in AI for marketing, causal inference, machine learning, and computational science
+• Geek in marketing analytics, causal inference, machine learning, consumer behavior, and computational methods
 
 • Data modeler to improve business decisions with different tools (Python, R, SQL, Stata, Hadoop)
 
 Blogs: https://liu431.github.io/
 Email: liu431@uchicago.edu
 Mobile: 812-287-3072 
+
+## What's new?
+
+
 
 
 
