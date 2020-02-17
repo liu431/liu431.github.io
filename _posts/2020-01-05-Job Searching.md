@@ -157,7 +157,14 @@ Example duties:
 
 #### _Notes_: I only list the companies that I have seen open positions for analytics positions and potentially will sponsor [H-1B visa](https://www.myvisajobs.com/Search_Visa_Sponsor.aspx) for international students. 
 
+#### NGO Database
 
-### Company lists
+[GuideStar](https://www.guidestar.org/search#geography)
+
+[propublica](https://projects.propublica.org/nonprofits/)
+
+[IRS Tax Exempt Organization Search](https://apps.irs.gov/app/eos/)
+
+#### Company rankings
 
 [America's Most Responsible Companies-Newsweek](https://www.newsweek.com/americas-most-responsible-companies-2020)
