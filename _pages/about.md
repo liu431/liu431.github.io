@@ -19,11 +19,14 @@ I am actively looking for data science and business analytics full-time position
 • Data modeler to improve business decisions with different tools (Python, R, SQL, Stata, Hadoop)
 
 Blogs: https://liu431.github.io/
+
 Email: liu431@uchicago.edu
+
 Mobile: 812-287-3072 
 
 ## What's new?
 
+Since Dec 2019, I am working on the thesis about understanding and quantifying the value of negative reviews on Amazon
 
 
 
