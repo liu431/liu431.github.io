@@ -9,6 +9,21 @@ mathjax: "true"
 ## Learning & Practicing
 [LinkedIn learning](LinkedIn Learning)
 
+TEACH!
+
+* Write blog posts
+
+* Speak at meetups
+
+* Record tutorials
+
+* Answer questions online
+
+* Tutor your friends
+
+[Kevin Markham's Post](https://www.linkedin.com/posts/justmarkham_datascience-activity-6635182333215469568-WQ9m)
+
+
 ## Interview Preparation
 [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
