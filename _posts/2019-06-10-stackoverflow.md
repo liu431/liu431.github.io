@@ -12,6 +12,7 @@ mathjax: "true"
 
 [Final Write-up](https://github.com/liu431/Big-Data-Project/blob/master/refs_docs/CAPP3_final_writup_HackyStacks.pdf)
 
+[Git Repo](https://github.com/liu431/Big-Data-Project)
 
 
 ### Description
