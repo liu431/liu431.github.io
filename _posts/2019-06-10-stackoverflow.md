@@ -17,7 +17,7 @@ mathjax: "true"
 ### Description
 Class: Big Data (Computer Science with Applications III) @ UChicago
 
-Group members: Adam Shelton, Dhruval Bhatt, Li Liu, Sanittawan Tan
+Group members: Adam Shelton, Dhruval Bhatt, Li Liu, Sanittawan (Nikki) Tan
 
 Data sets: Stack Overflow Data (around 25 GB after extracting and cleaning)
 
@@ -29,37 +29,37 @@ Date: April-June, 2019
 
 A1: Around 80% of the users just asked or answered one question 
 
-<img src="/images/stackoverflow/active.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/active.png" class="img-responsive" alt=""> 
 
 
 #### Q2.  What is the most popular question for each year? 
 
 A2:  Thee type of question has also changed. Earlier, open ended questions with very high number of responses seemed normal and acceptable. However, in the recent years, the questions are specific and seem to target error resolution. 
 
-<img src="/images/stackoverflow/top.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/top.png" class="img-responsive" alt=""> 
 
 #### Q3.  Where do the users that answer the most come from? 
 
 A3:    From the results of the subset of data, it can be seen that most active answerers come from United States. Due to the low count of users from all other countries represented, it is hardly visible on the map. 
 
-<img src="/images/stackoverflow/spatial.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/spatial.png" class="img-responsive" alt="">
 
 #### Q4.  What are the top used tags? 
 
 A4:  The graph below shows the top 6 languages and we see that javascript is the top tagged language. 
 
-<img src="/images/stackoverflow/tags.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/tags.png" class="img-responsive" alt=""> 
 
 #### Q5.  How are tags connected? 
 
 A5:  The figure below shows the network of tags formed by the output of the program. From this result, it can be noted that the popular language forms the central nodes of the the network.
 
-<img src="/images/stackoverflow/networks.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/networks.png" class="img-responsive" alt=""> 
 
 
 ### Sentiment v.s. Popularity of the language?
 
-<img src="/images/stackoverflow/chart.png" class="img-responsive" alt=""> </div>
+<img src="/images/stackoverflow/chart.png" class="img-responsive" alt=""> 
 
 For Python, the popularity (view counts and number of questions) has increased steadily in the past 10 years. However, the sentiment fluctuates between months and has a downward trend since 2010. 
 
@@ -156,19 +156,13 @@ Language with niche communities: SQL, R, Rust
 
 #### Top programming languages
 
-<details>
-<summary>toptags calculated from decrs_toptags</summary>
-<br>
+##### toptags calculated from decrs_toptags</summary>
            
 ```
-['javascript', 'java','c#', 'php', 'android', 'python', 'jquery', 'html', 'c++',
+'javascript', 'java','c#', 'php', 'android', 'python', 'jquery', 'html', 'c++',
 
- 'ios', 'css', 'mysql', 'sql', 'asp.net', 'ruby-on-rails']
+ 'ios', 'css', 'mysql', 'sql', 'asp.net', 'ruby-on-rails'
 ```
-</details>
-
-
-
 
 To visualize the correlation relationships, we made a scatter plot of correlations in the coordinate plane. The plot suggests possible clusters among languages: Python, Java, C, Javascript (general-purpose language) have relatively larger negative correlations and are closer with each other in the third quadrant. By comparison, Unix, Git, Dataproc (system tools) have relatively insignificant correlation values and locate near the origin. 
 
