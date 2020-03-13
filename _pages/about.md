@@ -20,7 +20,7 @@ I am actively looking for data science and business analytics full-time position
 
 Blogs: https://liu431.github.io/
 
-Email: liu431@uchicago.edu
+Email: lliu95877@gmail.com
 
 Mobile: 812-287-3072 
 
