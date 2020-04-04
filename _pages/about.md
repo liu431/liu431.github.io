@@ -28,7 +28,9 @@ Mobile: 812-287-3072
 
 Since Dec 2019, I am working on the thesis about understanding and quantifying the value of negative reviews on Amazon
 
+## Favourite Quote
 
+“Action cures fear. Indecision, postponement, on the other hand, fuel fear.” — David J. Schwartz
 
 
 
