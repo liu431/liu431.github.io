@@ -1,6 +1,6 @@
 ---
 title: "Class Project: Network Analysis of Economics PhD Programs Placement"
-date: 2019-12-20
+date: 2019-05-20
 tags: [class project, social network analysis]
 excerpt: "class project, social network analysis"
 mathjax: "true"
