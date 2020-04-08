@@ -1,6 +1,6 @@
 ---
 title: "Class Project: Analyzing Developers’ Online Behavior on StackOverflow"
-date: 2019-06-10
+date: 2019-08-10
 tags: [class project, Hadoop]
 header:
   image: "/images/stackoverflow/networks-wide.png"
