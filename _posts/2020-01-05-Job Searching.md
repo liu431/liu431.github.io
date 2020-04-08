@@ -7,7 +7,7 @@ mathjax: "true"
 ---
 
 ## Learning & Practicing
-[LinkedIn learning](LinkedIn Learning)
+[LinkedIn learning](https://www.linkedin.com/learning/me?u=57690273)
 
 TEACH!
 
