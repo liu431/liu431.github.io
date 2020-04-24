@@ -5,6 +5,11 @@ tags: [career, tips]
 excerpt: "career, tips"
 mathjax: "true"
 ---
+## Where to apply?
+[Who's freezing hiring from coronavirus](https://candor.co/hiring-freezes/)
+
+[Amazon Jobs](https://www.linkedin.com/jobs/)
+
 
 ## Learning & Practicing
 [LinkedIn learning](https://www.linkedin.com/learning/me?u=57690273)
