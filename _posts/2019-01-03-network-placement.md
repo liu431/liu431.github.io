@@ -26,5 +26,6 @@ programs to make better choices.
 
 Placement network of Top 100 US Economics PhD Programs:
 
-![png](https://github.com/liu431/ResearchProjects/blob/master/Econ%20PhD%20Placement%20Research/network.png)
+<img src="https://github.com/liu431/ResearchProjects/blob/master/Econ%20PhD%20Placement%20Research/network.png" class="img-responsive" alt=""> 
+
 
