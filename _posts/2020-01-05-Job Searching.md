@@ -28,6 +28,7 @@ TEACH!
 
 [Kevin Markham's Post](https://www.linkedin.com/posts/justmarkham_datascience-activity-6635182333215469568-WQ9m)
 
+[Tech Career Blog] (https://haseebq.com/tech-careers/)
 
 ## Interview Preparation
 [The HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
