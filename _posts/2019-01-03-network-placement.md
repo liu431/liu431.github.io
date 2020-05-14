@@ -22,7 +22,9 @@ programs to make better choices.
 
 *Access my current draft [here](https://github.com/liu431/ResearchProjects/blob/master/Econ%20PhD%20Placement%20Research/Li_Network%20Analysis_Economics%20PhD%20Placement.pdf)*
 
+*Access my Python code using Networkx [here](https://github.com/liu431/ResearchProjects/blob/master/Econ%20PhD%20Placement%20Research/Network_Placement.ipynb)*
 
+Placement network of Top 100 US Economics PhD Programs:
 
-![png](Network_Placement_files/Network_Placement_104_0.png)
+![png](https://github.com/liu431/ResearchProjects/blob/master/Econ%20PhD%20Placement%20Research/network.png)
 
