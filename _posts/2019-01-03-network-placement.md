@@ -28,6 +28,6 @@ programs to make better choices.
 ## Visualization
 Placement network of Top 100 US Economics PhD Programs:
 
-<img src="https://github.com/liu431/ResearchProjects/blob/master/Econ%20PhD%20Placement%20Research/network.png" class="img-responsive" alt=""> 
+<img src="/images/network.png" class="img-responsive" alt=""> 
 
 
