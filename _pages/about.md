@@ -8,7 +8,10 @@ permalink: /about/
 
 I’m an apsiring data scientist, experienced with Python and R programming. I specialize in quantitative marketing and economics, applying machine learning and econometric methods to better understand consumer behavior and inform business decisions from the large data. Currently, I am working on master's degree in [Computational Social Science  at the University of Chicago](https://macss.uchicago.edu/). Before that, I completed BS in Mathematics and BA in Economics at [Indiana University Bloomington](https://www.indiana.edu/) in three years.
 
-I am actively looking for data science and business analytics full-time positions to start my career after graduation in June 2020! Feel free to give me a shout if you are looking for a creative problem solver.
+I am actively looking for data science and business analytics full-time positions to start my career after graduation in June 2020! Feel free to shoot me an email or schedule a time to chat ([link](https://calendly.com/lliu95877
+)) if you are looking for a creative problem solver.
+
+
 
 ## In a nutshell
 
@@ -17,10 +20,6 @@ I am actively looking for data science and business analytics full-time position
 • Geek in marketing analytics, causal inference, machine learning, consumer behavior, and computational methods
 
 • Problem solver with interdisciplinary background
-
-Email: lliu95877@gmail.com
-
-Mobile: 812-287-3072 
 
 ## What's new?
 
