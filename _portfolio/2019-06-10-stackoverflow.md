@@ -2,9 +2,8 @@
 layout: single
 title: "Class Project: Analyzing Developers’ Online Behavior on StackOverflow"
 excerpt: "class project, Hadoop"
-tags: [class project, Hadoop]
 header:
-  image: "/images/stackoverflow/networks-wide.png"
+  teaser: "/images/stackoverflow/networks-wide.png"
 ---
 
 [Presentation Slides](https://github.com/liu431/Big-Data-Project/blob/master/refs_docs/Final%20Presentation.pdf)
