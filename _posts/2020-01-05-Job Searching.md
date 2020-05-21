@@ -8,7 +8,7 @@ mathjax: "true"
 ## Where to apply?
 [Who's freezing hiring from coronavirus](https://candor.co/hiring-freezes/)
 
-[Amazon Jobs](https://www.linkedin.com/jobs/)
+[LinkedIn jobs](https://www.linkedin.com/jobs/)
 
 
 ## Learning & Practicing
@@ -175,6 +175,11 @@ Example duties:
   * Optimizing the coverage and efﬁciency of ad campaigns through search engines (PPC) and social media platforms (Viagogo)
   
   * Identifying opportunities to acquire new inventory and optimize the quality/pricing of inventory in all geographies (Viagogo)
+  
+### Economics Research Professionals
+
+[Research Assistant Positions not at the NBER](https://www.nber.org/jobs/nonnberjobs.html)
+[Twitter: Econ RA Listings](https://twitter.com/econ_ra)
 
 #### _Notes_: I only list the companies that I have seen open positions for analytics positions and potentially will sponsor [H-1B visa](https://www.myvisajobs.com/Search_Visa_Sponsor.aspx) for international students. 
 
