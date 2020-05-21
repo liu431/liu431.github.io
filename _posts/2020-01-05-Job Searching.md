@@ -179,7 +179,13 @@ Example duties:
 ### Economics Research Professionals
 
 [Research Assistant Positions not at the NBER](https://www.nber.org/jobs/nonnberjobs.html)
+
 [Twitter: Econ RA Listings](https://twitter.com/econ_ra)
+
+[Yale: Tobin Center / Economics Pre-doctoral Fellows Program](https://tobin.yale.edu/tobin-predoctoral-fellows)
+
+[Stanford: SIEPR/Economics Predoctoral Research Fellows Program](https://siepr.stanford.edu/research/student-opportunities/predoctoral-fellowship)
+
 
 #### _Notes_: I only list the companies that I have seen open positions for analytics positions and potentially will sponsor [H-1B visa](https://www.myvisajobs.com/Search_Visa_Sponsor.aspx) for international students. 
 
