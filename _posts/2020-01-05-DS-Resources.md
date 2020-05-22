@@ -28,7 +28,6 @@ mathjax: "true"
 [Dice (tech roles)](https://www.dice.com/)
 
 
-
 ## Soft Skills
 [WSJ: How to Change Anyone’s Mind](https://www.wsj.com/articles/how-to-change-anyones-mind-11582301073?mod=searchresults&page=1&pos=1)
 
@@ -61,6 +60,13 @@ Main point: Many of the data science tasks today will become automated and part 
 [CrowdFLower: Data Science Report 2017](https://visit.figure-eight.com/rs/416-ZBE-142/images/CrowdFlower_DataScienceReport.pdf)
 
 Main point: most of the time is spent with cleaning and organizing the data
+
+## Behavioral Interview QUestions
+
+### Q: What Are Your Salary Expectations?
+
+[Link 1 (examples)](https://www.thebalancecareers.com/interview-questions-about-your-salary-expectations-2061235)
+
 
 <details>
 <summary> 
