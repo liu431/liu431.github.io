@@ -47,6 +47,10 @@ mathjax: "true"
 
 ## Career Advices
 
+[Book: Build a Career in Data Science (Emily Robinson and Jacqueline Nolis)](https://www.manning.com/books/build-a-career-in-data-science)
+
+[CMU Career Tips and Advice for Data Science/Data Analytics](https://www.cmu.edu/career/documents/industry-guides/data-science-tip-sheet.pdf)
+
 [Medium: 12 things I wish I’d known before starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
 
 [Medium: The academic trap and data science](The academic trap and data science)
