@@ -23,6 +23,7 @@ mathjax: "true"
 
 [CHEATSHEET: LEETCODE COMMON TEMPLATES & COMMON CODE PROBLEMS](https://cheatsheet.dennyzhang.com/cheatsheet-leetcode-a4)
 
+[Towards DS: Developing Machine Learning Pipelines](https://towardsdatascience.com/developing-machine-learning-pipelines-2881e50fc5e4)
 ## Job boards
 
 [Dice (tech roles)](https://www.dice.com/)
@@ -32,6 +33,8 @@ mathjax: "true"
 [WSJ: How to Change Anyone’s Mind](https://www.wsj.com/articles/how-to-change-anyones-mind-11582301073?mod=searchresults&page=1&pos=1)
 
 [Standing Out in a Sea of Data Scientists](https://learningwithdata.com/posts/tylerfolkman/standing-out-in-a-sea-of-data-scientists-c82e42a1e62b/#be-strategic)
+
+[5 cognitive biases in data science — and how to avoid them](https://thenextweb.com/syndication/2020/05/26/5-cognitive-biases-in-data-science-and-how-to-avoid-them/?utm_campaign=General%20INFORMS%20Content&utm_content=130328312&utm_medium=social&utm_source=facebook&hss_channel=fbp-139024155342&fbclid=IwAR1klVLGpjwC3Xbr8r1d3o1sWClrNenZj1qtVsTjdp_peBX9BmnYQuO09wo)
 
 ## Datasets
 
@@ -65,7 +68,8 @@ Main point: Many of the data science tasks today will become automated and part 
 
 Main point: most of the time is spent with cleaning and organizing the data
 
-## Behavioral Interview QUestions
+[Towards DS: Voicing for Data Engineering, the unsung hero](https://towardsdatascience.com/voicing-for-data-engineering-the-unsung-hero-b91b6ef39dcd)
+## Behavioral Interview Questions
 
 ### Q: What Are Your Salary Expectations?
 
