@@ -11,9 +11,30 @@ mathjax: "true"
 [LinkedIn jobs](https://www.linkedin.com/jobs/)
 
 
-## Learning & Practicing
+## Learning
 [LinkedIn learning](https://www.linkedin.com/learning/me?u=57690273)
 
+[Datacamp](https://learn.datacamp.com/)
+
+[Cognitve Class](https://cognitiveclass.ai/)
+
+[Coursera](https://www.coursera.org/)
+
+[edX](https://www.edx.org/)
+
+[Udacity](https://classroom.udacity.com/me)
+
+[Udemy](https://www.udemy.com/)
+
+## Code Pratice
+
+[Codesignal](https://app.codesignal.com/)
+
+[Leetcode](https://leetcode.com/)
+
+[HackerRack](https://www.hackerrank.com/dashboard)
+
+## Practicing
 TEACH!
 
 * Write blog posts
@@ -35,7 +56,7 @@ TEACH!
 
 [Leetcode Mock Interview](https://leetcode.com/interview/)
 
-[Learn to Code WIth Me-Technical Interview Guide](https://learntocodewith.me/posts/technical-interview/#remote-coding-challenge)
+[Learn to Code With Me-Technical Interview Guide](https://learntocodewith.me/posts/technical-interview/#remote-coding-challenge)
 
 ## Informational Interviews
 
