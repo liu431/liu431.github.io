@@ -24,10 +24,16 @@ mathjax: "true"
 [CHEATSHEET: LEETCODE COMMON TEMPLATES & COMMON CODE PROBLEMS](https://cheatsheet.dennyzhang.com/cheatsheet-leetcode-a4)
 
 [Towards DS: Developing Machine Learning Pipelines](https://towardsdatascience.com/developing-machine-learning-pipelines-2881e50fc5e4)
+
 ## Job boards
 
 [Dice (tech roles)](https://www.dice.com/)
 
+## Communities
+
+[Quora: What are some active Data Science Slack channels?](https://www.quora.com/What-are-some-active-Data-Science-Slack-channels)
+
+[15 Data Science Slack Communities to Join](https://towardsdatascience.com/15-data-science-slack-communities-to-join-8fac301bd6ce)
 
 ## Soft Skills
 [WSJ: How to Change Anyone’s Mind](https://www.wsj.com/articles/how-to-change-anyones-mind-11582301073?mod=searchresults&page=1&pos=1)
