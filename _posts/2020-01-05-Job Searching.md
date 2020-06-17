@@ -58,6 +58,8 @@ TEACH!
 
 [Learn to Code With Me-Technical Interview Guide](https://learntocodewith.me/posts/technical-interview/#remote-coding-challenge)
 
+"SOAR" Framework: Situation, Objective/Obstacle, Action, Result
+
 ## Informational Interviews
 
 [Guide](https://uchicago.app.box.com/s/xmhppvre3hfnkgcg8wilgie2tdzehjhd)
